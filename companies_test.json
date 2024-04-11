@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Miro",
+      "website": "https://www.linkedin.com/company/mirohq/",
+      "linkedin": "https://www.linkedin.com/company/mirohq/jobs/",
+      "jobs_page": "https://miro.com/careers/open-positions/",
+      "countries": [
+        {
+          "foreignRowId": "recqPG5T9GdAjmBIO",
+          "foreignRowDisplayName": "USA"
+        },
+        {
+          "foreignRowId": "recyRgG9q7gx5mZVt",
+          "foreignRowDisplayName": "Netherlands"
+        },
+        {
+          "foreignRowId": "recry0xmebWXVtXEk",
+          "foreignRowDisplayName": "Germany"
+        },
+        {
+          "foreignRowId": "recCk1xSsrRKtHUX3",
+          "foreignRowDisplayName": "France"
+        },
+        {
+          "foreignRowId": "recpSmZArZQhHhft3",
+          "foreignRowDisplayName": "Australia"
+        },
+        {
+          "foreignRowId": "recYFg839us3NWBR3",
+          "foreignRowDisplayName": "UK"
+        },
+        {
+          "foreignRowId": "rec3Y8uQzhul4NwTv",
+          "foreignRowDisplayName": "Armenia"
+        }
+      ]
+    }
+]
